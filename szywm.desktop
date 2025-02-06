@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=SzyWM
+Comment=Custom Window Manager with Alt + Q to launch Kitty
+Exec=~/szy_wm
+Type=Application
+
